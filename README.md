@@ -1,8 +1,8 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=¡Hola!+👋;+Soy Hildemar;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=¡Hola!+👋;+Soy Hildemar;" alt="¡Hola! 👋 Soy Hildemar González" title="¡Hola! 👋 Soy Hildemar González" />
 </h1>
 
-#### Desarrollador Web Full Stack en formación autodidacta apasionado por crear soluciones digitales funcionales y elegantes. Mi viaje comenzó con fundamentos en C/C++ y evolucionó hacia el desarrollo web moderno. Cada proyecto es una oportunidad para aprender, mejorar y aplicar mejores prácticas. ¡Explora mi trabajo y por favor déjame saber tu opinión!
+#### Desarrollador Web Full Stack en formación autodidacta apasionado por crear soluciones digitales funcionales y elegantes. Mi viaje comenzó con fundamentos en C/C++ y evolucionó hacia el desarro[...]
 
 ## 🛠️ Tecnologías y Habilidades
 
