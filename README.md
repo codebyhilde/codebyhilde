@@ -2,7 +2,7 @@
     ¡Hola! 👋 Soy Hildemar González
 </h1>
 
-#### Desarrollador Web Full Stack en formación autodidacta apasionado por crear soluciones digitales funcionales y elegantes. Mi viaje comenzó con fundamentos en C/C++ y evolucionó hacia el desa[...]
+#### Desarrollador Web Full Stack en formación autodidacta apasionado por crear soluciones digitales funcionales y elegantes. Mi viaje comenzó con fundamentos en C/C++ y evolucionó hacia el desarrollo web moderno. Cada proyecto es una oportunidad para aprender, mejorar y aplicar mejores prácticas. ¡Explora mi trabajo y por favor déjame saber tu opinión!
 
 ## 🛠️ Tecnologías y Habilidades
 
