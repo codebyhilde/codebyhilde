@@ -2,9 +2,9 @@
     ¡Hola! 👋 Soy Hildemar González
 </h1>
 
-#### Desarrollador Web Full Stack en formación autodidacta apasionado por crear soluciones digitales funcionales y elegantes. Mi viaje comenzó con fundamentos en C/C++ y evolucionó hacia el desarrollo web moderno. Cada proyecto es una oportunidad para aprender, mejorar y aplicar mejores prácticas. ¡Explora mi trabajo y por favor déjame saber tu opinión!
+#### Desarrollador Web Full Stack apasionado por crear soluciones digitales funcionales y elegantes. Mi viaje comenzó con fundamentos en C/C++ y evolucionó hacia el desarrollo web moderno. Cada proyecto es una oportunidad para aprender, mejorar y aplicar mejores prácticas. ¬️Explora mi trabajo y por favor déjame saber tu opinión!
 
-## 🛠️ Tecnologías y Habilidades
+## 🧰 Tecnologías y Habilidades
 
 ### **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -35,7 +35,7 @@
 
 ---
 
-> “Hazlo con miedo, pero hazlo.” – Anónimo
+> “Hazlo con miedo, pero hazlo.” — Anónimo
 
 <!--
 **codebyhilde/codebyhilde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
